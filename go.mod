@@ -1,3 +1,3 @@
-module github.com/TilekSydykov/goadmin
+module github.com/tileksydykov/goadmin
 
 go 1.22.0

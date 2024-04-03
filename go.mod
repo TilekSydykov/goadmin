@@ -1,3 +1,3 @@
-module github.com/tileksydykov/goadmin-test v0.1.0
+module github.com/tileksydykov/goadmin-test
 
 go 1.22.0
